@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: palegoldenrod;
+  width: 100vw;
+  height: 100vh;
+}
+section {
+  height: 40vh;
+  width: 70vw;
+  box-sizing: border-box;
+  border: 10px solid gray;
+  background-color: black;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+p {
+  font-size: 10vw;
+  font-family: monospace;
+  color: white;
+}
